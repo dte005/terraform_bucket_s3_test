@@ -9,7 +9,7 @@ terraform {
   cloud {
     organization = "ds9-solutions"
     workspaces {
-      name = "aws_bucket_example"
+      name = "agent_knowledge_test"
     }
   }
 }
